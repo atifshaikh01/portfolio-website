@@ -5,7 +5,7 @@ export const profile = {
   email: 'shaikhatif8583020@gmail.com',
   phone: '+91 85830 20150',
   resume: '/Md_Atif_Shaikh_Resume.pdf',
-  avatar: '/test-employee.webp',
+  avatar: '/portfolio-image.jpeg',
   tagline: 'I build scalable, real-time web & desktop experiences.',
   summary:
     'Full Stack Developer with 2+ years of experience designing and shipping scalable web and desktop applications. I specialize in real-time systems, performance optimization, and clean, accessible interfaces — turning complex, high-frequency data into fast, intuitive products.',
