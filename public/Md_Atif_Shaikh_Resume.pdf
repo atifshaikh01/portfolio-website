@@ -1,0 +1,79 @@
+
+
+MD ATIF SHAIKH 
+Full Stack Developer 
+Mini Cottage, Janta Colony, Sahar Village, Andheri East, Mumbai, Maharashtra – 400099 
+Phone: 8583020150 | Email: shaikhatif8583020@gmail.com 
+PROFILE 
+Full Stack Developer with 2+ years of experience building and deploying scalable web and desktop applications. 
+Proficient in React.js, TypeScript, Node.js, MongoDB, Redis, MQTT, and AWS, with expertise in real-time systems, 
+REST API development, frontend performance optimization, and UI/UX design using Figma. 
+EXPERIENCE 
+Software Developer  |  Acevin Solutions  |  February 2024 – Present 
+CMCS (Centralized Monitoring Control System) 
+• Developed a real-time centralized monitoring system using React.js, Node.js, Express.js, MongoDB, and MQTT 
+for monitoring industrial devices and live sensor data. 
+• Integrated MQTT-based communication to receive and process real-time data streams from connected hardware 
+devices. 
+• Performed deep frontend optimization: refactored component architecture, reduced unnecessary re-renders, and 
+resolved critical performance bottlenecks in the dashboard and map section, eliminating UI lag from high-
+frequency data updates. 
+• Optimized backend data payloads and API response structures, and integrated Redis caching to reduce response 
+time and improve performance during heavy data requests. 
+• Built scalable REST APIs and database schemas to manage high-volume device records and user interactions; 
+deployed and maintained the application on AWS EC2. 
+• Collaborated with backend and hardware teams to ensure smooth two-way communication between devices and 
+web platforms. 
+TestJig Project 
+• Built a cross-platform desktop application using React.js, and Electron for hardware-based automated testing 
+workflows. 
+• Implemented Socket.IO for real-time communication between testing hardware and the application. 
+• Processed image frames from connected devices and executed automated test scenarios based on real-time 
+captured data. 
+• Improved rendering performance and application responsiveness for large data transfers during hardware testing. 
+• Designed detailed UI/UX wireframes and prototypes in Figma to guide the application's interface and user flow. 
+Acevin Solutions – Official Company Website 
+• Developed the official company website using TypeScript and Next.js, featuring a modern, fully responsive design. 
+• Integrated a job application portal enabling candidates to apply for open positions directly, with resume upload and 
+submission functionality. 
+• Implemented email integration to automatically dispatch application confirmations and job-related communications 
+to applicants and internal HR teams. 
+• Ensured cross-browser compatibility, SEO best practices, and optimized page load performance throughout the 
+site. 
+Acevin Internal Tool 
+• Developed a comprehensive internal management system used by ~70 employees, covering employee 
+management, attendance, leave, timesheet, and appraisal calculations. 
+• Built scalable frontend and backend modules using TypeScript Next.js, Node.js, Express.js, and MongoDB, with 
+REST APIs for employee records, leave approvals, timesheet submissions, and appraisal processes. 
+• Implemented role-based access control (RBAC) for Admin, HR, and Employee users, ensuring secure access to 
+organization data and workflows. 
+• Integrated AI-powered timesheet assistance using Google's Gemini to help employees generate accurately 
+formatted and detailed timesheet entries. 
+OTS OGI – Android Application (Figma Design) 
+
+• Designed a comprehensive end-to-end UI/UX prototype for an Android application using Figma, covering all key 
+screens, user flows, and interactions. 
+• Created high-fidelity mockups following Android Material Design guidelines for a consistent and intuitive user 
+experience. 
+• Collaborated with stakeholders to gather requirements and iteratively refined the design based on feedback. 
+Software Developer Intern  |  Acevin Solutions  |  October 2023 – January 2024 
+• Contributed to frontend and backend development using the MERN stack while learning production development 
+practices. 
+• Participated in the redesign and modernization of the company's website, improving responsiveness and user 
+experience. 
+• Worked with senior developers to implement features, fix bugs, and gain experience in real-world software 
+development workflows. 
+• Gained hands-on experience with React.js, Node.js, MongoDB, REST APIs, Git, and Redis. 
+EDUCATION 
+MCA – Master of Computer Applications  |  2025  |  North Maharashtra University 
+BCA – Bachelor of Computer Applications  |  2023  |  North Maharashtra University 
+SKILLS & ABILITIES 
+ 
+Languages & Frameworks JavaScript, TypeScript, Python, React.js, Next.js, HTML5, CSS3, Tailwind CSS, 
+Bootstrap, GSAP 
+Backend & APIs Node.js, Express.js, REST APIs, Socket.IO, MQTT 
+Databases & Caching MongoDB, Redis 
+DevOps & Tools AWS EC2, Docker, Git, GitHub, Postman, Electron, Figma, AI Integration 
+ACHIEVEMENTS 
+• Led a team of interns, coordinating task assignments, providing technical mentorship, and ensuring timely delivery 
+of project milestones. 
